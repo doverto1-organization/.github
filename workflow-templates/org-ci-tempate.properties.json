@@ -1,0 +1,6 @@
+{
+    "name": "Organization CI Workflow",
+    "description": "doverto1-Organization CI Starter Workflow.",
+    "iconName": "octicon organization",
+    "categories": ["Deployment"]
+}
